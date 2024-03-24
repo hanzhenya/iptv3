@@ -51,7 +51,7 @@ https://edge02.odtv.az/o4/extremesport/playlist.m3u8
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanali7.al" tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="Albania",Kanali 7 (576p)
 https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-#EXTINF:-1 tvg-id="News24.al" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Albania",News 24 Albania (392p)
+#EXTINF:-1 tvg-id="News24.al" tvg-logo="https://i.imgur.com/eG33jue.png" group-title="Albania",News 24 Albania (392p)
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Albania",Tropoja TV (1080p)
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
@@ -6251,7 +6251,7 @@ http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="Jordan",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="Jordan",Al Mamlaka TV (1080p)
+#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="Jordan",Al Mamlaka TV (1080p)
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="Jordan",Al Qamar TV (360p)
 https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
@@ -8160,7 +8160,7 @@ https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Palestine",Abu Dhabi Sports 1 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="Palestine",Ajyal TV (720p)
+#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="Palestine",Ajyal TV (720p)
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="AlHayatTV.us" tvg-logo="https://i.imgur.com/M8ZuzeB.png" group-title="Palestine",Al Hayat TV (720p)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
