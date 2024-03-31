@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="China" tvg-id="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWIyOWVlYzVlYTJiZWNiZGE2MjA3YzZmODk2OGY0YTdlJmVzPTE3MTE4MTQ0NDcmdXVpZD04N2UzYjkwZjdjNmIxZTc0MTdkYWQxN2E5N2ZmNWE1ZC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNGGMPP360.m3u8
-#EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="China",湖南都市
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTA0OWUyYmJmODgwOWI3YTI5Y2ZiNjdmZTVkNzVkY2NmJmVzPTE3MTE4MTUyMDImdXVpZD0xOTMwZDU0MDczNGFmYTk1NmE4YzI5ODM5NTU5ZGIwNi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
 #EXTINF:-1 group-title="China" tvg-id="湖南娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg",湖南娱乐频道
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTFmMjhjOGI0MjVhYmNkYzQwMTJhNDQyM2VlZjg5NDU0JmVzPTE3MTE4NDE0MTAmdXVpZD0xOTkzNjNiMzAxZWQzMzM4MjI1NjQ1ODIzZjA2ZWVjOC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-id="eco.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="China",湖南经视
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTE0ZWM2OTM2NThiYTc4ZDNlNTY2YjRkZWYzMTU5YjI3JmVzPTE3MTE4NDE1OTAmdXVpZD03ZDA1MTQwNDY4ZjYyMTZkZDA4ZjkwNWRhYTkzYTAwYy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNJSMPP360.m3u8
 #EXTINF:-1 group-title="China" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
 http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTg2MDI0ZjU5MjhhNzJkMzVmN2NkZGFmYTY5MThiYzI1JmVzPTE3MTE4NDE2OTgmdXVpZD02MjQ1OWMxNTQ2MDQ3Zjk0ZjA4ZTFjOWJjMjFjZDMxNS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
-#EXTINF:-1 group-title="China" tvg-id="湖南国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614032623217.jpg",湖南国际频道
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTk3YTI1NTcyMzZjZjc2M2YxNmY4N2ZkYzc1OGRmMGYzJmVzPTE3MTE4MTY2MTcmdXVpZD1jNjA5ZjY5YzEyZTZiMzBhNDBiNWMwYjMzYTMxNDI4NS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNGJMPP360.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-logo="https://i.imgur.com/qDI3aMp.png" tvg-id="澳门卫视",澳门卫视
 http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-logo="https://i.imgur.com/ykPNNwQ.png" tvg-id="Pet Club TV",Pet Club TV
