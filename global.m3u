@@ -5290,6 +5290,8 @@ http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MadhaTV.in" tvg-logo="https://i.imgur.com/UBBaXzz.png" group-title="India",Madha TV (600p)
 https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8
+#EXTINF:-1 tvg-id="Mastiii.in" tvg-logo="https://i.imgur.com/lxgXHx4.png" group-title="India",Mastiii
+https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="MercyTV.in" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="India",Mercy TV (1080p)
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in" tvg-logo="https://i.imgur.com/cFNw4Af.png" group-title="India",MNTV (1080p)
@@ -10696,6 +10698,8 @@ https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/ind
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Tajikistan",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj" tvg-logo="https://i.imgur.com/MDULX7X.png" group-title="Tajikistan",Ilm va Tabiat (1080p)
+https://live.teleradiocom.tj/15/3m.m3u8
 #EXTINF:-1 tvg-id="Jahonnamo.tj" tvg-logo="https://i.imgur.com/ffqdD8W.png" group-title="Tajikistan",Jahonnamo (1080p)
 https://live.teleradiocom.tj/4/3m.m3u8
 #EXTINF:-1 tvg-id="Khatlon.tj" tvg-logo="https://i.imgur.com/X4xVpBj.png" group-title="Tajikistan",Khatlon (576p)
@@ -10714,6 +10718,8 @@ https://live.teleradiocom.tj/3/3m.m3u8
 https://live.teleradiocom.tj/12/3m.m3u8
 #EXTINF:-1 tvg-id="TVSafina.tj" tvg-logo="https://i.imgur.com/Ho2vKZJ.png" group-title="Tajikistan",TV Safina (1080p)
 https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 tvg-id="TVSayohi.tj" tvg-logo="https://i.imgur.com/lAkMrtr.png" group-title="Tajikistan",TV Sayohi (1080p)
+https://live.teleradiocom.tj/16/3m.m3u8
 #EXTINF:-1 tvg-id="TVSinamo.tj" tvg-logo="https://i.imgur.com/W2qz5a4.png" group-title="Tajikistan",TV Sinamo (1080p)
 https://live.teleradiocom.tj/6/3m.m3u8
 #EXTINF:-1 tvg-id="TVSugd.tj" tvg-logo="https://i.imgur.com/YzkwTHb.png" group-title="Tajikistan",TV Sugd (1080p)
