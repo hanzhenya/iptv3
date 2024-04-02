@@ -15,8 +15,6 @@ http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTJk
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTkxYjAzMDFhYWQ3ZjA0NDhiZTJhZDJiMjIyYmM2ZGVhJmVzPTE3MTIwNDkzNTEmdXVpZD05MWFiMmM4ZWZhMDQ1MDgyYTUwYTY0NTQ4ZGJiNWEyZi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNGJMPP360.m3u8
 #EXTINF:-1 group-title="China" tvg-id="长沙新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0215/small7ff3d34c5627b5c263817abeff70e23d.gif",长沙新闻频道
 http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWQ0N2NmZTRhNTY2YmViNGJhNjVkMTNmYWM5MGUzY2IzJmVzPTE3MTIwNjU2ODYmdXVpZD0zZTU1Y2FkOGQ1Y2NkODcwMjM5NzNlNzU3NGVjNDdmMC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/CSXWMPP360.m3u8
-#EXTINF:-1 group-title="Hong Kong" tvg-logo="https://i.imgur.com/qDI3aMp.png" tvg-id="澳门卫视",澳门卫视
-http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-logo="https://i.imgur.com/ykPNNwQ.png" tvg-id="Pet Club TV",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="Bloomberg TV Asia",Bloomberg TV Asia
@@ -6747,8 +6745,6 @@ https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-id="PeretzInternational.ru" tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Luxembourg",Перец
 http://stream01.vnet.am/Perec/mono.m3u8
-#EXTINF:-1 tvg-id="TDMOuMun.mo" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Macao",TDM Ou Mun Macau Ch. 91 (720p)
-http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNAfrica.us" tvg-logo="https://i.imgur.com/1S4Y4xC.png" group-title="Madagascar",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="Madagascar",Africanews
