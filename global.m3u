@@ -107,8 +107,6 @@ http://218.17.205.210:9901/tsfile/live/0126_1.m3u8
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="China",CCTV6
 http://110.52.99.109:9901/tsfile/live/faacts/1005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="China",CCTV6
-http://221.1.210.106:8053/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7.png" group-title="China",CCTV7
 http://125.210.152.19:9123/live/hzgq-cctv7gq-h264.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7.png" group-title="China",CCTV7
@@ -573,8 +571,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Argentina",24h
 http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
-#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="https://alternatv.ar/alternatv.png" group-title="Argentina",AlternaTV (720p)
-https://alternatv.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Argentina",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="Argentina",Antena 3 Internacional
