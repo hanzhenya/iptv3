@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="China" tvg-id="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTEyYmYxNjlkNmZlOWVlOGE2MmEzZDdkZTc0MjIzYmI2JmVzPTE3MTI1MzgwMDQmdXVpZD05MTNjNmI3YWFlYmNmZGU1ZDQyMjE0YTc3ODdlMjEzOC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGGMPP360.m3u8
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTBiYzc0MGZmMjljZmNhNjg4NGQ1NzYwYWQ5MGM4ZWVhJmVzPTE3MTI1NjcwMjAmdXVpZD0wYWNkODZiOTBmMzhmYjFiMGI1OGMwNThlMDdiNTNhMy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNGGMPP360.m3u8
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="China",湖南都市
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTI3NjhmYjg4N2E3Mzc5MTU1YTc1MWNmOThkMDljYzI3JmVzPTE3MTI1Mzg5MDcmdXVpZD1iYTRiYWU3OTYwYmM3ZTYxY2MyZTk4NzlkYzUzMjlkZi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSMPP360.m3u8
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWMyMDA1ZTZlZjk0YjRhOGE4MGI1N2E5ZDVmOWM5MWM3JmVzPTE3MTI1Njc5ODAmdXVpZD05NGI5Nzc0YTJlMTc4M2Y5NjA2ZDYzYWZhZTFmMTEwNC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSMPP360.m3u8
+#EXTINF:-1 group-title="China" tvg-id="湖南娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg",湖南娱乐频道
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTM3ZDQ4OWQwYzE3OGFlNjZlNzUzNjQwNDgwYjRjNmNhJmVzPTE3MTI1NjQzMjkmdXVpZD1kOThlZDA3N2IzNjQ3ZjhkYWE2YWJmYTMzMDI5NjI0NS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-id="eco.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="China",湖南经视
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTFiYWM5MzhkNWJlMjZkZTQ1YzUzYTljNjRiMmUxM2I2JmVzPTE3MTI1MzczNzgmdXVpZD03M2Y5ODJhZDI1YjdiOTFkNWZjZGYyNTlkMzFmNDg5NS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTgyZDQ3M2NjMzgxZWYyMzE2ODJhZDlhNjYzMzIwN2Y3JmVzPTE3MTI1NjYxODUmdXVpZD1iN2ZmZTM2NjE4YjYzNzNiOGI5ZWEwNThiZmUwOWQxOS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
 #EXTINF:-1 group-title="China" tvg-id="金鹰纪实频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125839242.jpg",金鹰纪实频道
-https://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWY0MTNmYjhkZWZmNzlmMDA3NmNhYjg5YTVhMGY4YmRiJmVzPTE3MTI1MTU2NDEmdXVpZD01YTczMjVkNzVmODMyMjYxYmMxMGYxZjIyMmU5ZmUxYi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYJSMPP360.m3u8
-#EXTINF:-1 group-title="China" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWY1ZmMxYmRmYzc4OGU2YTcwNjFjMGIxZDZiMmM0YmQ0JmVzPTE3MTI1MzM4NjImdXVpZD04NDA0N2NkNzdhZDQyMGVmOTU0OTdiNWM0ODhiMzQ5NS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYKTMPP360.m3u8
+https://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWM1YzdjMWM4MTlkYWI5ZjZiODUwNDMzYzMwNjY0ODM0JmVzPTE3MTI1NzQwMTkmdXVpZD1mZGU4ODRiNTUyY2VhNjNlOTg0NGVkNzkwNGFkYjY4Yi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYJSMPP360.m3u8
 #EXTINF:-1 group-title="China" tvg-id="湖南国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614032623217.jpg",湖南国际频道
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWZhMjc4Njg1NzQwMWZkZWZmNGM5MTdiOWQ1YWVkNTVkJmVzPTE3MTI1MTczMjMmdXVpZD1kYWMyYjQzZGFlZmYwZDEyZGUyMzViOTlhMjFmYTViNC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTI2ODg2YTlhYjFmNWIwOTg3YTc2ZDRjOTkyMGJhMDYzJmVzPTE3MTI1NzQ5MjQmdXVpZD1mMDAzNDYxZmFmNzZjOGI1NTdlODUwOGNhZTZjYjRiMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 #EXTINF:-1 group-title="China" tvg-id="长沙新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0215/small7ff3d34c5627b5c263817abeff70e23d.gif",长沙新闻频道
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTNjMjgyOTJmZDAxMTQzZDEyNmEwNzc0YTBlODlkYTI0JmVzPTE3MTI1MzA4MzYmdXVpZD0yZGMwMDBiMjVlYTUyOWRlNDFhMTUwMjg3N2JlNjYwOS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/CSXWMPP360.m3u8
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTg5MWM0MTZiMDBmY2M1OWQzYTE1MTcyMDAyY2I1ZjRjJmVzPTE3MTI1OTExMzImdXVpZD04YjQxYmYyOTNkNzA0NmMyZTNmYzA1ZWY2MTQ2YjJkYi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/CSXWMPP360.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-logo="https://i.imgur.com/ykPNNwQ.png" tvg-id="Pet Club TV",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="Bloomberg TV Asia",Bloomberg TV Asia
@@ -36,25 +36,27 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-logo="https://i.imgur.com/pFIMLsA.png" tvg-id="Dali TV",Dali TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
-https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/a1_index.m3u8
+https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/v1_index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
-https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1712509525-1fe3c1086dce54d906396579d1439c5f-0-c30e520e9d654f5ef7b4964e961df292
+https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1712562440-b167f820bd7be3c3cb224f8d3649552e-0-a52980c66eb5c124dbc2e502787f4d50
 #EXTINF:-1 group-title="China" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
-https://sjlivecdn9.cbg.cn/202404080137/app_2/_definst_/ls_2.stream/chunklist.m3u8
+https://sjlivecdn9.cbg.cn/202404081422/app_2/_definst_/ls_2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
 http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 #EXTINF:-1 group-title="China" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
-http://183.6.211.24/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=45d090dc97c113b8d65758201c7f3b45&wsTime=1712514618&wsSession=e234fda97f6f8c18aead0f87-171251230745484&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0e82406232b68b7f72a04a9c4dec957d&wsTime=1712572511
 #EXTINF:-1 group-title="China" tvg-id="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
 http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
+#EXTINF:-1 group-title="China" tvg-id="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
+https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/u3sh8sV.m3u8
 #EXTINF:-1 group-title="China" tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
-https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=7ddef5ec2b3d7781490c7615de57cb65&time=6612dd81
+https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=87346941dd4fd3c02a26dd7bfa7debfc&time=6613a2b1
 #EXTINF:-1 group-title="China" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
-https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=9609b2a51712517160
+https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=169dc8f61712569211
 #EXTINF:-1 group-title="China" tvg-id="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=22f039c91712510474
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=a09383c41712569682
 #EXTINF:-1 group-title="China" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
-https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=e9445a061712515321
+https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=bda60f661712568424
 #EXTM3U
 #EXTINF:-1 group-title="China",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
