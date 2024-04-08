@@ -13203,6 +13203,8 @@ http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="IglesiaLGD.ve" tvg-logo="" group-title="Venezuela",LGD TV (1080p)
 https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="LGDTV.ve" tvg-logo="" group-title="Venezuela",LGDTV (1080p)
+https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="MasChicPanregional.ar" tvg-logo="https://i.imgur.com/pOyBwD1.png" group-title="Venezuela",Más Chic
 http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
 #EXTINF:-1 tvg-id="MasTalk.ve" tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="Venezuela",Más Talk (1080p)
