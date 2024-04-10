@@ -35,8 +35,6 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/a1_index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影频道
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022574302.m3u8
-#EXTINF:-1 group-title="China" tvg-id="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 科教
-http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022573002.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音乐
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575502.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 4K
@@ -53,8 +51,6 @@ https://sjlivecdn9.cbg.cn/202404101619/app_2/_definst_/ls_2.stream/chunklist.m3u
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000272102.m3u8
 #EXTINF:-1 group-title="China" tvg-id="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000281302.m3u8
-#EXTINF:-1 group-title="China" tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
-http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000294802.m3u8
 #EXTINF:-1 group-title="China" tvg-id="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
 http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 #EXTINF:-1 group-title="China" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
