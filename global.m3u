@@ -7,12 +7,8 @@ http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTk4
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWYwNDYwZDZkMWM3NDRiZDc3MmQ4NzExZWU1ZTJjN2JjJmVzPTE3MTM0MDE4ODYmdXVpZD1mZDM3ODc0MDNlZGU5MDQyYjNlYjY2ZDQzN2IzZjgxMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-id="eco.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="China",湖南经视
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTZjYmIxYWMyM2ViNGQ1YzAxNmEzZGI1OTc3ZjVlMDRlJmVzPTE3MTM0MDgzMjAmdXVpZD1lNGJlNTU4ZDE0ZGJlNzgzMjQ1YTIyOGRjZTk3NmI0NC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNJSMPP360.m3u8
-#EXTINF:-1 group-title="China" tvg-id="金鹰纪实频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125839242.jpg",金鹰纪实频道
-https://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTVhZjVlNGRkODFmYzI4YTNhNGVkNGVlODk1YjY1N2U4JmVzPTE3MTMzODg2NzAmdXVpZD01ZmVjYWU2NGI3ZjFlN2M5YjBjYWE1NjEwNGU3Y2FmOS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYJSMPP360.m3u8
 #EXTINF:-1 group-title="China" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
 http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWY5ZTg1OWYxZWU0NjNjMWQzNWYzODNlNzNiNzMwMDgxJmVzPTE3MTMzOTkyOTUmdXVpZD1mMTc0YjdiYTg5M2VmYTNhYWJiNDRhNTgyMTk3MDhkYy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
-#EXTINF:-1 group-title="China" tvg-id="湖南国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614032623217.jpg",湖南国际频道
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWE3NzIwZThiNTVlZWZiMjI4Y2IxMDJkZmI0ZTM4ZTQ0JmVzPTE3MTMzOTEyMjMmdXVpZD0xNzBhZTM0ZDFjYWRlNzU2ZmVkNzA0ODc3NjM2ZWExYS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNGJMPP360.m3u8
 #EXTINF:-1 tvg-id="dianshiju.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="China",湖南电视剧
 http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWI0OTgxNWVkMWY3NTQ2MDI4ZmQ5Y2NiYjNlNzNhMjU0JmVzPTE3MTM0MDA0NDcmdXVpZD1lOTJhNGZmYWQ0OWVjZmMwMTc3OTViNjBjZjNjYzhiOS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSJMPP360.m3u8
 #EXTINF:-1 group-title="China" tvg-id="长沙新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0215/small7ff3d34c5627b5c263817abeff70e23d.gif",长沙新闻频道
@@ -267,8 +263,6 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS亚洲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS亚洲.png" group-title="Hong Kong",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/香港卫视.png" group-title="Hong Kong",香港卫视
-https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/香港卫视.png" group-title="Hong Kong",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/香港卫视.png" group-title="Hong Kong",香港卫视
@@ -892,8 +886,6 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelBangla.bd" tvg-logo="https://i.imgur.com/vIJTVia.png" group-title="Bangladesh",Madani Channel Bangla (1080p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-id="NandanTV.ca" tvg-logo="https://i.imgur.com/rg7c5L2.jpg" group-title="Bangladesh",Nandan TV (1080p)
-https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Barbados",24h
 http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Barbados",BBC News (North America) (1080p)
@@ -1159,8 +1151,6 @@ https://stream.rtvze.ba/live/123/123.m3u8
 http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SevdahTV.ba" tvg-logo="https://i.imgur.com/gmpkHWT.png" group-title="Bosnia and Herzegovina",Sevdah TV (288p)
 https://restreamer2.tnt.ba/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SuperTV.ba" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="Bosnia and Herzegovina",Super TV Media (720p)
-https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-id="Televizija5.ba" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="Bosnia and Herzegovina",Televizija 5 (576p)
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 tvg-id="ABNAfrica.us" tvg-logo="https://i.imgur.com/1S4Y4xC.png" group-title="Botswana",ABN Africa (480p)
@@ -1534,8 +1524,6 @@ https://lnc-love-nature.tubi.video/playlist.m3u8
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/Y5YnUit.png" group-title="Canada",Montreal Greek TV (480p)
 http://live.greektv.ca/hls1/greektv.m3u8
-#EXTINF:-1 tvg-id="NandanTV.ca" tvg-logo="https://i.imgur.com/rg7c5L2.jpg" group-title="Canada",Nandan TV (1080p)
-https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 tvg-id="NETVToronto.ca" tvg-logo="https://i.imgur.com/WXRBuOW.png" group-title="Canada",NETV Toronto (720p)
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 tvg-id="CJONDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Canada",Newfoundland Television (480p)
@@ -1898,8 +1886,6 @@ https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Colombia",EWTN
 http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8
-#EXTINF:-1 tvg-id="FamiliChannel.co" tvg-logo="https://i.imgur.com/fPuWct8.png" group-title="Colombia",Famili Channel (720p)
-https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Colombia",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FrecuenciaFTV.co" tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="Colombia",Frecuencia F TV (1080p)
@@ -1918,8 +1904,6 @@ http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://i.imgur.com/i0Qexxd.png" group-title="Colombia",Hola TV
 http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8
-#EXTINF:-1 tvg-id="HuellasTV.co" tvg-logo="https://i.imgur.com/7sazidf.png" group-title="Colombia",Huellas.TV (1080p)
-https://cp.panelchs.com:1936/8170/8170/playlist.m3u8
 #EXTINF:-1 tvg-id="HuilaTV.co" tvg-logo="https://i.imgur.com/hFlGHNZ.png" group-title="Colombia",Huila TV (720p)
 https://plataformavideo.com:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Colombia",Las Estrellas Latin America (720p)
@@ -2489,8 +2473,6 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-id="CaribbeanTravelingNetwork.do" tvg-logo="https://i.imgur.com/8J3oyfq.png" group-title="Dominican Republic",Caribbean Traveling Network (486p)
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
-#EXTINF:-1 tvg-id="Carivision.do" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="Dominican Republic",Carivision (1080p)
-https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Dominican Republic",Cartoonito
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Dominican Republic",Cáscara TV (1080p)
@@ -2621,8 +2603,6 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Ecuador",24h
 http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador",América Estéreo Guayaquil (360p)
-https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoIbarra.ec" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador",América Estéreo Ibarra (720p)
 https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoQuito.ec" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador",América Estéreo Quito (1080p)
@@ -2633,8 +2613,6 @@ https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlis
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="Ecuador",Antena 3 Internacional
 http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenaUnoRadiovideo.ec" tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Ecuador",Antena Uno RadioVideo (360p)
-https://tvdatta.com:3578/live/antenaunolive.m3u8
 #EXTINF:-1 tvg-id="AustralTV.ec" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="Ecuador",Austral TV (1080p)
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Ecuador",Az Cinema
@@ -3709,10 +3687,6 @@ http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Guatemala",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal6Panadish.gt" tvg-logo="https://i.imgur.com/KJWNPiz.jpg" group-title="Guatemala",Canal 6 Panadish (720p)
-https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="IxchiguanEstereoTV.gt" tvg-logo="https://i.imgur.com/FMrB17k.png" group-title="Guatemala",Canal 9 Ixchiguán (720p)
-https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1 tvg-id="Canal27.gt" tvg-logo="https://i.imgur.com/eA4vt8A.png" group-title="Guatemala",Canal 27 (1080p)
 https://live.canal27.tv:3633/live/canal27live.m3u8
 #EXTINF:-1 tvg-id="CanalTVRadioMayaTGBA.gt" tvg-logo="https://i.imgur.com/kORStT1.png" group-title="Guatemala",Canal TV Radio Maya TGBA (480p)
@@ -4228,8 +4202,6 @@ https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8
 https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="MercyTV.in" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="India",Mercy TV (1080p)
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
-#EXTINF:-1 tvg-id="MarutamTV.in" tvg-logo="https://i.imgur.com/cFNw4Af.png" group-title="India",MNTV (1080p)
-https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="MarutamMusic.in" tvg-logo="https://i.ibb.co/NynvtQm/1-210414213-U60-L.jpg" group-title="India",MNTV Music (1080p)
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-logo="https://i.imgur.com/xnjkUOs.png" group-title="India",Nambikkai TV (576p)
@@ -5775,8 +5747,6 @@ https://s.emisoras.tv:8081/nnveracruz/index.m3u8
 https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
 #EXTINF:-1 tvg-id="NRTMexicoRegionCentro.mx" tvg-logo="https://i.imgur.com/yjNUzYD.jpg" group-title="Mexico",NRT México Región Centro (720p)
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
-#EXTINF:-1 tvg-id="NRTMexicoRegionSureste.mx" tvg-logo="https://i.imgur.com/rxVVrZV.jpg" group-title="Mexico",NRT México Región Sureste (720p)
-https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Mexico",Once México (1080p)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Mexico",Platzi TV (1080p)
@@ -8712,8 +8682,6 @@ https://live.streamingfast.net/osmflivech33.m3u8
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Taiwan",TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="WXTV.tw" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="Taiwan",唯心電視 (480p)
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Taiwan",立法院IVOD直播交通委員會 (450p)
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Taiwan",立法院IVOD直播內政委員會 (450p)
@@ -8742,8 +8710,6 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 http://streaming.tv-teleport.ru/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Tajikistan",Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-id="Tojikiston.tj" tvg-logo="https://i.imgur.com/sEXCFNk.png" group-title="Tajikistan",Tajikistan (1080p)
-https://live.teleradiocom.tj/1/3m.m3u8
 #EXTINF:-1 tvg-id="TMT.tj" tvg-logo="https://i.imgur.com/Dg0UkNR.png" group-title="Tajikistan",TMT (1080p)
 https://live.teleradiocom.tj/9/3m.m3u8
 #EXTINF:-1 tvg-id="TVBahoriston.tj" tvg-logo="https://i.imgur.com/Dacai5z.png" group-title="Tajikistan",TV Bahoriston (1080p)
@@ -10822,8 +10788,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847fd5
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVMTVTeenMom.us" tvg-logo="https://i.imgur.com/JQBsaXH.png" group-title="United States",Pluto TV MTV Teen Mom (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5cffcf5686dfe15595fb3f56&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=7ca1fec5-0587-11eb-aeab-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVMTVTheHills.us" tvg-logo="https://i.imgur.com/92mvCjS.png" group-title="United States",Pluto TV MTV The Hills (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d00e86bf0bac55fe7f75736&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a934c097-0587-11eb-8b9f-0242ac110002&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVMundo.us" tvg-logo="https://i.imgur.com/rUq7YcG.png" group-title="United States",Pluto TV Mundo (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d103f031154a4172d262b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=959&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVMy5Crime.us" tvg-logo="https://i.imgur.com/toWxUc9.png" group-title="United States",Pluto TV My5 Crime (720p)
