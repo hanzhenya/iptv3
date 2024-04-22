@@ -29,14 +29,16 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-logo="https://i.imgur.com/pFIMLsA.png" tvg-id="Dali TV",Dali TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="CGTN" tvg-logo="",CGNT 记录频道
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="China" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
+https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/a1_index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
-https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1713764599-fc2658e35c0055fe5ad1b7a5239c33f3-0-b675fed03615fa2e5ad03d02f8e4794a
+https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1713771850-85d9ac7cd6955761c14881e727f007e7-0-8c73874263631dcebdfc2737c0afe5b2
 #EXTINF:-1 group-title="China" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="China" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="China" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
+https://sjlivecdn9.cbg.cn/202404221409/app_2/_definst_/ls_2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000281302.m3u8
 #EXTINF:-1 group-title="China" tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
@@ -44,21 +46,21 @@ http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 #EXTINF:-1 group-title="China" tvg-id="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
 http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 #EXTINF:-1 group-title="China" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=864210d87ba608d26b48533e9e6abe75&wsTime=1713767108
+http://183.6.211.24/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e6099dee49bab15c57ba027d5be9a356&wsTime=1713782109&wsSession=01c9798caa43138a585be81b-171377228638785&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 #EXTINF:-1 group-title="China" tvg-id="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
 http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
 #EXTINF:-1 group-title="China" tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
-http://stream1.jlntv.cn/jlws/playlist.m3u8?_upt=62a1ea131713772389
+http://stream1.jlntv.cn/jlws/playlist.m3u8?_upt=ca1a114d1713779565
 #EXTINF:-1 group-title="China" tvg-id="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
 http://stream.snrtv.com/sxbc-star-etJLRV.m3u8
 #EXTINF:-1 group-title="China" tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
-https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=f45635e9089bb4dfab58152b547c433f&time=6625fb53
+https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=e1ad5c7f3a9bb4216c09b146e8955d93&time=6626175b
 #EXTINF:-1 group-title="China" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
-https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=1a1d7f471713768771
+https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=ab01a9261713775997
 #EXTINF:-1 group-title="China" tvg-id="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f27e176e1713758716
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=26a53f2e1713774247
 #EXTINF:-1 group-title="China" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
-https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=c5f8afcf1713768943
+https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=461e85281713776489
 #EXTM3U
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="China",CCTV-4K
