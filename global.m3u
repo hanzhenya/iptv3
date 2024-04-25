@@ -4,7 +4,7 @@ http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTc3
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="China",湖南都市
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTUwNDU2ZmM3ZjQ0MGU3N2Y2MWE3NGQ0YTc2NjFmYWU0JmVzPTE3MTQwNDczNDUmdXVpZD1lMTg3ZTI4YWMyY2RlN2VkNDgzMDgzODMwODFlN2QwYy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSMPP360.m3u8
 #EXTINF:-1 group-title="China" tvg-id="湖南娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg",湖南娱乐频道
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWNkNDIyZDQzODRiNTNiZDg0N2M5YWQ1YWU0NDEyYTdhJmVzPTE3MTQwMzg2NTQmdXVpZD1hMzZmYmU3ZTRjNWI5NjU2NWU5ZTRjMTU1ZTVhMWZiYy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWI0YWQ0Nzk1N2Q2OWJmYjMxYzU2NzU1OTM0ZDEzZWU0JmVzPTE3MTQwNjc0NTcmdXVpZD00NDdmNDI1M2JiYTllOWFmMWY0OTEyNzZhOTkwMWVhMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-id="eco.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="China",湖南经视
 http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWZkN2YyZDFmYWE4ODYxODc3YWNjMGI1M2Q2MWYzNWUzJmVzPTE3MTQwNDgwNTgmdXVpZD01YWFhNGE2NGJhODhjZjI4MzU4NTMyODUzOGFhODJhNi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
 #EXTINF:-1 group-title="China" tvg-id="金鹰纪实频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125839242.jpg",金鹰纪实频道
@@ -36,7 +36,7 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-logo="https://i.imgur.com/pFIMLsA.png" tvg-id="Dali TV",Dali TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
-https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/a1_index.m3u8
+https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/v1_index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 科教
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573002.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音乐
@@ -49,8 +49,6 @@ http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengsh
 http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="China" tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295602.m3u8
-#EXTINF:-1 group-title="China" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
-https://sjlivecdn9.cbg.cn/202404251628/app_2/_definst_/ls_2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000272102.m3u8
 #EXTINF:-1 group-title="China" tvg-id="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
@@ -58,21 +56,21 @@ http://120.220.164.147/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/
 #EXTINF:-1 group-title="China" tvg-id="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
 http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 #EXTINF:-1 group-title="China" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
-http://59.37.82.157/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=50724d97ae420c3c05971d510d438561&wsTime=1714042811&wsSession=b7e52a812fb7de1e69bbb729-171403875794804&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+http://59.37.82.157/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d722da10799bec7d63b7aece8eddd014&wsTime=1714057813&wsSession=b7e52a812fb7de1e69bbb729-171404595624870&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 #EXTINF:-1 group-title="China" tvg-id="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png",厦门卫视
 http://120.220.164.147/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
 #EXTINF:-1 group-title="China" tvg-id="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
 http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
+#EXTINF:-1 group-title="China" tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
+http://stream1.jlntv.cn/jlws/playlist.m3u8?_upt=a776b6dc1714053205
 #EXTINF:-1 group-title="China" tvg-id="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
 http://120.220.164.147/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/sxws/1300000/mnf.m3u8
 #EXTINF:-1 group-title="China" tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
-https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=9db7d8eb20f905e35720623b50d5287a&time=662a2841
+https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=b3a0cf7d10d3c42376bf53e2ab0ad020&time=662a4444
 #EXTINF:-1 group-title="China" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
-https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=692718ac1714043426
+https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=342f17ba1714050657
 #EXTINF:-1 group-title="China" tvg-id="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=90e8fda21714036359
-#EXTINF:-1 group-title="China" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
-https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=559e12121714038868
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=59ac1b661714050777
 #EXTM3U
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="China",CCTV-4K
