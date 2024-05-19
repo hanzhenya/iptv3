@@ -33,8 +33,6 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-logo="https://i.imgur.com/pFIMLsA.png" tvg-id="Dali TV",Dali TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
-https://www.nettvpro.xyz/player/videojs.php?url=https://edge2.laotv.la/live/CCTV4A/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影频道
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel6/1300.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 科教
