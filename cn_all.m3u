@@ -2863,8 +2863,6 @@ https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv2.m3u8
 https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv4.m3u8
 #EXTINF:-1 group-title="云南频道",云南娱乐频道yntv3
 http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
-#EXTINF:-1 group-title="云南频道",云南都市频道yntv2
-http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 #EXTINF:-1 group-title="云南频道",广安公共频道
 http://live1.gatv.com.cn:85/live/GGPD.m3u8
 #EXTINF:-1 group-title="云南频道",西双版纳一套
