@@ -36,8 +36,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="地方",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="数字",南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 group-title="国际",BBC
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="国际",CNN
@@ -174,15 +172,9 @@ http://183.6.110.242:9901/hls/1001/index.m3u8
 #EXTINF:-1 group-title="China",CCTV1
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 #EXTINF:-1 group-title="China",CCTV1
-http://124.228.160.169:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV1
 http://171.8.245.118:808/hls/1/index.m3u8
 #EXTINF:-1 group-title="China",CCTV1
-http://171.118.222.151:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1 group-title="China",CCTV1
 http://113.220.234.100:9999/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV1
-http://183.185.254.132:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV1
 http://60.10.139.10:8801/hls/1/index.m3u8
 #EXTINF:-1 group-title="China",CCTV1
@@ -193,8 +185,6 @@ http://36.32.174.67:60080/newlive/live/hls/1/live.m3u8
 http://117.27.190.42:9998/tsfile/live/23232_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV1
 http://171.8.244.248:808/hls/1/index.m3u8
-#EXTINF:-1 group-title="China",CCTV1
-http://121.19.134.251:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV1
 http://123.138.216.44:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV1
@@ -208,10 +198,6 @@ http://39.164.202.90:8899/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV1
 http://118.122.2.29:9999/hls/1/index.m3u8
 #EXTINF:-1 group-title="China",CCTV1
-http://14.212.185.27:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",CCTV1
-http://171.116.59.153:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV1
 http://118.248.216.78:8088/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV1
 http://218.3.138.25:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -223,8 +209,6 @@ http://36.40.237.247:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 http://183.11.239.36:808/hls/19/index.m3u8
 #EXTINF:-1 group-title="China",CCTV1
 http://stream.smntv.cn/smtv1/sd/live.m3u8
-#EXTINF:-1 group-title="China",CCTV1
-http://171.118.222.151:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV2
 http://223.112.219.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV2
@@ -234,11 +218,7 @@ http://123.160.173.200:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV2
 http://58.57.21.166:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="China",CCTV2
-http://121.19.134.251:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV2
 http://218.3.138.25:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV2
-http://14.212.185.27:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV2
 http://113.220.234.100:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV2
@@ -247,8 +227,6 @@ http://118.81.54.64:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://39.164.202.90:8899/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV2
 http://112.123.206.32:808/hls/2/index.m3u8
-#EXTINF:-1 group-title="China",CCTV2
-http://110.80.17.38:9901/tsfile/live/0002_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="China",CCTV2
 http://36.32.174.67:60080/newlive/live/hls/2/live.m3u8
 #EXTINF:-1 group-title="China",CCTV2
@@ -262,8 +240,6 @@ http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="China",CCTV2
 http://118.248.216.78:8088/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV2
-http://221.4.143.69:8114/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBa03tuFR%2Fdsya1OSO0Z1VDEEWNg5ICoftLE%2FdS9%2BOGL0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141587490&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9a069bf67e38&FvSeid=88fe5578aee2f1ef&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9874&Fsv_chan_hls_se_idx=60&Fsv_TBt=8466752&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-2-CQ&Fsv_CMSID=GD_CUCC07-08-2024
-#EXTINF:-1 group-title="China",CCTV2
 http://183.11.239.36:808/hls/20/index.m3u8
 #EXTINF:-1 group-title="China",CCTV2
 http://60.10.139.10:8801/hls/2/index.m3u8
@@ -274,25 +250,15 @@ http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3
 #EXTINF:-1 group-title="China",CCTV2
 http://171.8.245.118:808/hls/2/index.m3u8
 #EXTINF:-1 group-title="China",CCTV2
-http://124.228.160.169:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV2
 http://1.24.190.98:10080/hls/2/index.m3u8
-#EXTINF:-1 group-title="China",CCTV2
-http://171.118.222.151:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV2
-http://171.116.59.153:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV3
 http://118.81.54.64:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV3
-http://171.116.59.153:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV3
 http://113.220.234.100:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV3
 http://118.248.216.78:8088/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV3
 http://112.123.206.32:808/hls/3/index.m3u8
-#EXTINF:-1 group-title="China",CCTV3
-http://171.118.222.151:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV3
 http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV3
@@ -320,23 +286,15 @@ http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/32
 #EXTINF:-1 group-title="China",CCTV3
 http://58.57.21.166:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="China",CCTV3
-http://14.212.185.27:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",CCTV3
 http://103.116.245.163/sxg/sxg.php?id=/CCTV-3H265_4000.m3u8
 #EXTINF:-1 group-title="China",CCTV3
 http://36.40.237.247:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV3
 http://123.160.173.200:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV3
-http://124.228.160.169:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV3
 http://116.117.105.221:8096/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="China",CCTV4
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 group-title="China",CCTV4
-http://14.212.185.27:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",CCTV4
-http://171.118.222.151:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 group-title="China",CCTV4
@@ -348,15 +306,9 @@ http://gmxw.7766.org:808/hls/22/index.m3u8
 #EXTINF:-1 group-title="China",CCTV4
 http://112.123.206.32:808/hls/4/index.m3u8
 #EXTINF:-1 group-title="China",CCTV4
-http://171.116.59.153:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV4
 http://60.10.139.10:8801/hls/4/index.m3u8
 #EXTINF:-1 group-title="China",CCTV4
-http://124.228.160.169:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV4
 http://117.27.190.42:9998/tsfile/live/23235_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV4
-http://110.80.17.38:9901/tsfile/live/0004_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="China",CCTV4
 http://61.136.67.238:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV4
@@ -376,8 +328,6 @@ http://210.210.155.35/qwr9ew/s/s19/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 #EXTINF:-1 group-title="China",CCTV4
 http://118.81.54.64:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV4
-http://183.185.254.132:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV4
 http://36.40.237.247:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV4
 http://58.57.21.166:9901/tsfile/live/0004_1.m3u8
@@ -390,8 +340,6 @@ http://61.136.67.238:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",CCTV5
 http://121.24.99.10:8090/hls/13/index.m3u8
 #EXTINF:-1 group-title="China",CCTV5
-http://14.212.185.27:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",CCTV5
 http://60.10.139.10:8801/hls/5/index.m3u8
 #EXTINF:-1 group-title="China",CCTV5
 http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225597/index.m3u8
@@ -399,8 +347,6 @@ http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/32
 http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="China",CCTV5
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws
-#EXTINF:-1 group-title="China",CCTV5
-http://183.185.254.132:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV5
 http://1.24.190.98:10080/hls/5/index.m3u8
 #EXTINF:-1 group-title="China",CCTV5
@@ -412,8 +358,6 @@ http://118.248.216.78:8088/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",CCTV5
 http://183.6.110.242:9901/hls/1005/index.m3u8
 #EXTINF:-1 group-title="China",CCTV5
-http://124.228.160.169:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV5
 http://1.30.18.218:20080/hls/5/index.m3u8
 #EXTINF:-1 group-title="China",CCTV5
 http://14.212.185.27:9901/tsfile/live/0005_1.m3u8
@@ -422,8 +366,6 @@ http://58.57.21.166:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="China",CCTV5
 http://218.3.138.25:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV5
-http://123.138.216.44:9902/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV5
 http://113.220.234.100:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV5
 http://112.46.85.60:8009/hls/503/index.m3u8
@@ -431,8 +373,6 @@ http://112.46.85.60:8009/hls/503/index.m3u8
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8?2024
 #EXTINF:-1 group-title="China",CCTV5
 http://121.24.98.85:8090/hls/13/index.m3u8
-#EXTINF:-1 group-title="China",CCTV5
-http://171.116.59.153:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV5
 http://110.80.17.38:9901/tsfile/live/0005_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="China",CCTV5
@@ -464,8 +404,6 @@ http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encr
 #EXTINF:-1 group-title="China",CCTV5+
 http://39.164.202.90:8899/tsfile/live/0016_4.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV5+
-http://124.228.160.169:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV5+
 http://103.116.245.163/sxg/sxg.php?id=/CCTV-5plusH265_4000.m3u8
 #EXTINF:-1 group-title="China",CCTV5+
 http://58.57.21.166:9901/tsfile/live/0016_1.m3u8
@@ -476,8 +414,6 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 #EXTINF:-1 group-title="China",CCTV6
 http://123.189.36.103:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV6
-http://171.118.222.151:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV6
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 group-title="China",CCTV6
 http://123.138.216.44:9902/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -487,10 +423,6 @@ http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3
 http://58.57.21.166:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="China",CCTV6
 http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
-#EXTINF:-1 group-title="China",CCTV6
-http://183.185.254.132:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV6
-http://171.118.222.151:9999/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="China",CCTV6
 http://58.248.112.230:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdDMxs6M4VqBOY3wzfYh5Zn70IXSXFRQUc4GqtZY1Coe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142154017&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9e73ad37b261&FvSeid=88fe5578aef0e784&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18133&Fsv_chan_hls_se_idx=57&Fsv_TBt=8464824&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-6-CQ&Fsv_CMSID=GD_CUCC
 #EXTINF:-1 group-title="China",CCTV6
@@ -506,8 +438,6 @@ http://222.241.154.37:9901/tsfile/live/23006_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="China",CCTV6
 http://58.248.112.230:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdDMxs6M4VqBOY3wzfYh5Zn70IXSXFRQUc4GqtZY1Coe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142154017&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9e73ad37b261&FvSeid=88fe5578aef0e784&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18133&Fsv_chan_hls_se_idx=57&Fsv_TBt=8464824&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-6-CQ&Fsv_CMSID=GD_CUCC07-07-2024
 #EXTINF:-1 group-title="China",CCTV6
-http://171.116.59.153:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV6
 http://61.136.67.238:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV6
 http://118.81.54.64:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -520,23 +450,13 @@ http://36.32.174.67:60080/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 group-title="China",CCTV6
 http://117.27.190.42:9998/tsfile/live/23237_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV6
-http://124.228.160.169:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV6
 http://123.160.173.200:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV6
-http://14.212.185.27:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV6
 http://1.24.190.98:10080/hls/6/index.m3u8
 #EXTINF:-1 group-title="China",CCTV6
 http://218.3.138.25:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV7
 http://123.138.216.44:9902/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV7
-http://124.228.160.169:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV7
-http://121.19.134.251:808/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV7
-http://171.116.59.153:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV7
 http://1.24.190.98:10080/hls/7/index.m3u8
 #EXTINF:-1 group-title="China",CCTV7
@@ -548,15 +468,11 @@ http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&en
 #EXTINF:-1 group-title="China",CCTV7
 http://113.220.234.100:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV7
-http://171.118.222.151:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV7
 http://39.164.202.90:8899/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV7
 http://175.8.213.198:8081/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV7
 http://36.32.174.67:60080/newlive/live/hls/8/live.m3u8
-#EXTINF:-1 group-title="China",CCTV7
-http://171.118.222.151:9999/tsfile/live/0007_1.m3u8
 #EXTINF:-1 group-title="China",CCTV7
 http://183.94.1.118:8801/tsfile/live/0007_1.m3u8
 #EXTINF:-1 group-title="China",CCTV7
@@ -566,21 +482,13 @@ https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
 #EXTINF:-1 group-title="China",CCTV7
 http://58.57.21.166:9901/tsfile/live/0007_1.m3u8
 #EXTINF:-1 group-title="China",CCTV7
-http://14.212.185.27:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",CCTV7
 http://61.136.67.238:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV7
-http://117.27.190.42:9998/tsfile/live/23238_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV7
-http://183.185.254.132:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV7
 http://103.116.245.163/sxg/sxg.php?id=/CCTV-7H265_4000.m3u8
 #EXTINF:-1 group-title="China",CCTV7
 http://36.40.237.247:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV7
 http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
-#EXTINF:-1 group-title="China",CCTV7
-http://222.241.154.37:9901/tsfile/live/23007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV7
 http://123.160.173.200:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV7
@@ -589,8 +497,6 @@ http://112.123.206.32:808/hls/7/index.m3u8
 http://60.10.139.10:8801/hls/7/index.m3u8
 #EXTINF:-1 group-title="China",CCTV8
 http://58.57.21.166:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="China",CCTV8
-http://171.118.222.151:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV8
 http://1.24.190.98:10080/hls/8/index.m3u8
 #EXTINF:-1 group-title="China",CCTV8
@@ -614,41 +520,21 @@ http://103.116.245.163/sxg/sxg.php?id=/CCTV-8H265_4000.m3u8
 #EXTINF:-1 group-title="China",CCTV8
 http://183.94.1.118:8801/tsfile/live/0008_1.m3u8
 #EXTINF:-1 group-title="China",CCTV8
-http://171.116.59.153:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV8
 http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225602/index.m3u8
-#EXTINF:-1 group-title="China",CCTV8
-http://183.185.254.132:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV8
-http://171.118.222.151:9999/tsfile/live/0008_1.m3u8
 #EXTINF:-1 group-title="China",CCTV8
 http://121.24.98.185:8090/hls/16/index.m3u8
 #EXTINF:-1 group-title="China",CCTV8
-http://124.228.160.169:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV8
-http://14.212.185.27:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",CCTV8
 http://36.32.174.67:60080/newlive/live/hls/11/live.m3u8
 #EXTINF:-1 group-title="China",CCTV8
-http://110.80.17.38:9901/tsfile/live/0008_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="China",CCTV8
 http://118.81.54.64:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV8
-http://121.19.134.251:808/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV9
-http://14.212.185.27:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV9
 http://36.32.174.67:60080/newlive/live/hls/12/live.m3u8
-#EXTINF:-1 group-title="China",CCTV9
-http://171.116.59.153:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV9
 http://61.136.67.238:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV9
 http://58.57.21.166:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="China",CCTV9
 http://222.240.82.92:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="China",CCTV9
-http://58.23.26.184:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV9
 http://123.160.173.200:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV9
@@ -662,15 +548,11 @@ http://103.116.245.163/sxg/sxg.php?id=/CCTV-9H265_4000.m3u8
 #EXTINF:-1 group-title="China",CCTV9
 http://113.220.234.100:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV9
-http://171.118.222.151:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="China",CCTV9
 http://110.80.17.38:9901/tsfile/live/0009_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="China",CCTV9
 http://123.189.36.103:9901/tsfile/live/1160_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV9
 http://60.10.139.10:8801/hls/9/index.m3u8
-#EXTINF:-1 group-title="China",CCTV9
-http://124.228.160.169:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV9
 http://222.241.154.37:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV9
@@ -694,27 +576,11 @@ http://39.164.202.90:8899/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV10
 http://117.27.190.42:9998/tsfile/live/23241_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV10
-http://183.185.254.132:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV10
 http://1.195.111.251:11190/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="China",CCTV10
 http://222.240.82.92:9901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="China",CCTV10
-http://58.23.26.184:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV10
-http://171.118.222.151:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV10
-http://123.138.216.44:9902/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV10
-http://171.118.222.151:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1 group-title="China",CCTV10
-http://124.228.160.169:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV10
 http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=
-#EXTINF:-1 group-title="China",CCTV10
-http://14.212.185.27:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",CCTV10
-http://58.57.21.166:9901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="China",CCTV10
 http://110.80.17.38:9901/tsfile/live/0010_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="China",CCTV10
@@ -728,25 +594,13 @@ http://gmxw.7766.org:808/hls/28/index.m3u8
 #EXTINF:-1 group-title="China",CCTV10
 http://123.160.173.200:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV10
-http://58.23.26.184:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1 group-title="China",CCTV10
-http://171.116.59.153:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV10
 http://222.241.154.37:9901/tsfile/live/23010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV10
 http://36.40.237.247:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV11
-http://58.23.26.184:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 group-title="China",CCTV11
 http://110.80.17.38:9901/tsfile/live/0011_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="China",CCTV11
 http://60.10.139.10:8801/hls/11/index.m3u8
-#EXTINF:-1 group-title="China",CCTV11
-http://171.116.59.153:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV11
-http://171.118.222.151:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV11
-http://58.23.26.184:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV11
 http://222.241.154.37:9901/tsfile/live/23011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV11
@@ -768,15 +622,11 @@ http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/32
 #EXTINF:-1 group-title="China",CCTV11
 http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225702/index.m3u8
 #EXTINF:-1 group-title="China",CCTV11
-http://124.228.160.169:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV11
 http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225701/index.m3u8
 #EXTINF:-1 group-title="China",CCTV11
 http://113.220.234.100:9999/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV11
 http://117.27.190.42:9998/tsfile/live/23242_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV11
-http://14.212.185.27:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV11
 https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 #EXTINF:-1 group-title="China",CCTV11
@@ -787,16 +637,12 @@ http://36.32.174.67:60080/newlive/live/hls/14/live.m3u8
 http://36.40.237.247:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV11
 http://123.189.36.103:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV11
-http://183.185.254.132:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV12
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
 #EXTINF:-1 group-title="China",CCTV12
 http://61.136.67.238:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV12
 http://36.32.174.67:60080/newlive/live/hls/15/live.m3u8
-#EXTINF:-1 group-title="China",CCTV12
-http://183.185.254.132:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV12
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="China",CCTV12
@@ -808,8 +654,6 @@ http://123.189.36.103:9901/tsfile/live/1162_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",CCTV12
 http://110.80.17.38:9901/tsfile/live/0012_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="China",CCTV12
-http://171.118.222.151:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV12
 http://36.40.237.247:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV12
 http://39.164.202.90:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -820,19 +664,13 @@ http://222.241.154.37:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="China",CCTV12
 http://117.27.190.42:9998/tsfile/live/23243_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV12
-http://124.228.160.169:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV12
 http://118.81.54.64:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV12
 http://60.10.139.10:8801/hls/12/index.m3u8
 #EXTINF:-1 group-title="China",CCTV12
-http://171.116.59.153:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV12
 http://59.48.75.130:3052/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV12
 http://36.249.151.244:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV12
-http://14.212.185.27:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV12
 http://113.220.234.100:9999/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV12
@@ -842,17 +680,9 @@ http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="China",CCTV13
 http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 #EXTINF:-1 group-title="China",CCTV13
-http://58.23.26.184:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV13
-http://171.118.222.151:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV13
-http://14.212.185.27:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",CCTV13
 http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV13
 http://36.40.237.247:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",CCTV13
-http://171.116.59.153:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV13
 http://61.163.181.78:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="China",CCTV13
@@ -861,8 +691,6 @@ http://112.123.206.32:808/hls/13/index.m3u8
 http://36.32.174.67:60080/newlive/live/hls/16/live.m3u8
 #EXTINF:-1 group-title="China",CCTV13
 http://222.240.82.92:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 group-title="China",CCTV13
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=7ff060443836507a41a5214026042c9626a11fbff401291700ce35d59c3e6293_1720504703_604800&fromCDN=ws
 #EXTINF:-1 group-title="China",CCTV13
 http://39.164.202.90:8899/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV13
@@ -879,8 +707,6 @@ http://123.160.173.200:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225704/index.m3u8
 #EXTINF:-1 group-title="China",CCTV13
 http://58.57.21.166:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 group-title="China",CCTV13
-http://124.228.160.169:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV13
 http://117.27.190.42:9998/tsfile/live/23244_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV13
@@ -902,27 +728,17 @@ http://118.248.216.78:8088/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",CCTV13
 http://61.136.67.238:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV14
-http://124.228.160.169:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV14
-http://14.212.185.27:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",CCTV14
 http://103.116.245.163/sxg/sxg.php?id=/CCTV-14H265_4000.m3u8
 #EXTINF:-1 group-title="China",CCTV14
 http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1 group-title="China",CCTV14
 http://118.248.216.78:8088/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV14
-http://171.118.222.151:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV14
 http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV14
 http://58.57.21.166:9901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="China",CCTV14
-http://171.116.59.153:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV14
 http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
-#EXTINF:-1 group-title="China",CCTV14
-http://58.23.26.184:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="China",CCTV14
 http://60.10.139.10:8801/hls/14/index.m3u8
 #EXTINF:-1 group-title="China",CCTV14
@@ -932,13 +748,9 @@ http://117.27.190.42:9998/tsfile/live/23245_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",CCTV14
 http://222.240.82.92:9901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="China",CCTV14
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 group-title="China",CCTV14
 http://222.241.154.37:9901/tsfile/live/23014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV14
 http://118.81.54.64:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV14
-http://58.23.26.184:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV14
 http://36.40.237.247:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV14
@@ -956,10 +768,6 @@ http://118.248.216.78:8088/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",CCTV15
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
 #EXTINF:-1 group-title="China",CCTV15
-http://171.118.222.151:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV15
-http://124.228.160.169:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV15
 http://36.32.174.67:60080/newlive/live/hls/18/live.m3u8
 #EXTINF:-1 group-title="China",CCTV15
 http://103.116.245.163/sxg/sxg.php?id=/CCTV-15-yyH265_4000.m3u8
@@ -972,19 +780,11 @@ http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="China",CCTV15
 http://1.24.190.98:10080/hls/15/index.m3u8
 #EXTINF:-1 group-title="China",CCTV15
-http://58.23.26.184:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1 group-title="China",CCTV15
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=bde6e809b30a2e9d5be77b50b95f7634e4524e2a06f94bbcec4356d0f5b54ae3_1720508275_604800&fromCDN=ws
 #EXTINF:-1 group-title="China",CCTV15
 http://223.112.219.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV15
-http://58.23.26.184:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV15
-http://183.185.254.132:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV15
 http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1 group-title="China",CCTV15
-http://14.212.185.27:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV15
 http://118.81.54.64:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV15
@@ -997,14 +797,10 @@ http://123.189.36.103:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=
 http://117.27.190.42:9998/tsfile/live/23246_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV15
 http://123.160.173.200:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV15
-http://171.116.59.153:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV16
 http://60.10.139.10:8801/hls/16/index.m3u8
 #EXTINF:-1 group-title="China",CCTV16
 http://123.189.36.103:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",CCTV16
-http://121.19.134.251:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV16
 http://221.4.143.70:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVSIaGkZ%2BPhCYgvTlbbof9ehJWpxNEs6VzmrJ5uWaaFf&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142879377&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea41e722a0a58&FvSeid=88fe5578aef71f1f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9859&Fsv_chan_hls_se_idx=52&Fsv_TBt=8468280&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-16-CQ&Fsv_CMSID=GD_CUCC07-03-2024
 #EXTINF:-1 group-title="China",CCTV16
@@ -1032,8 +828,6 @@ http://110.80.17.38:9901/tsfile/live/0007_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="China",CCTV17
 http://123.189.36.103:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV17
-http://14.212.185.27:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",CCTV17
 http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV17
 http://36.249.151.244:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1041,8 +835,6 @@ http://36.249.151.244:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=
 http://36.40.237.247:9999/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",CCTV17
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1 group-title="China",CCTV17
-http://58.23.26.184:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV17
 http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1 group-title="China",CCTV17
@@ -1055,12 +847,8 @@ http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="China",CCTV4K
 http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-#EXTINF:-1 group-title="China",CCTV2024
-https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
 #EXTINF:-1 group-title="China",CCTV20241
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="China",东方卫视
-http://124.228.160.169:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",东方卫视
 http://59.44.102.18:8888/newlive/live/hls/21/live.m3u8
 #EXTINF:-1 group-title="China",东方卫视
@@ -1074,8 +862,6 @@ http://222.241.154.37:9901/tsfile/live/23033_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="China",东方卫视
 http://120.76.248.139/live/otvgd/26.m3u8?bt=2300
 #EXTINF:-1 group-title="China",东方卫视
-http://121.19.134.251:808/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",东方卫视
 http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="China",东方卫视
 http://117.27.190.42:9998/tsfile/live/23268_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1084,11 +870,7 @@ http://218.3.138.25:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",东方卫视
 http://118.81.54.64:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",东方卫视
-http://171.116.59.153:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",东方卫视
 http://218.13.170.98:9901/tsfile/live/1010_1.m3u8
-#EXTINF:-1 group-title="China",东方卫视
-http://14.212.185.27:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",东方卫视
 http://123.160.173.200:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",东方卫视
@@ -1097,8 +879,6 @@ http://183.94.1.118:8801/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.224.178.16:9901/tsfile/live/0122_1.m3u8
 #EXTINF:-1 group-title="China",东方卫视
 http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
-#EXTINF:-1 group-title="China",东方卫视
-http://58.23.26.184:9901/tsfile/live/0107_1.m3u8
 #EXTINF:-1 group-title="China",东方卫视
 http://182.46.8.161:8018/hls/54/index.m3u8
 #EXTINF:-1 group-title="China",东方卫视
@@ -1110,8 +890,6 @@ http://222.241.154.37:9901/tsfile/live/23033_1.m3u8?key=tvbox6_com&playlive=1&au
 #EXTINF:-1 group-title="China",东方卫视
 http://39.164.202.90:8899/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",东方卫视
-http://171.118.222.151:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",东方卫视
 http://36.40.237.247:9999/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",东方卫视
 http://113.220.234.100:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1119,8 +897,6 @@ http://113.220.234.100:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid
 http://58.57.21.166:9901/tsfile/live/0107_1.m3u8
 #EXTINF:-1 group-title="China",东方卫视
 http://223.112.219.174:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",浙江卫视
-http://58.23.26.114:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",浙江卫视
 http://14.29.76.30:9901/tsfile/live/0124_1.m3u8
 #EXTINF:-1 group-title="China",浙江卫视
@@ -1131,8 +907,6 @@ http://113.220.234.100:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid
 http://222.241.154.37:9901/tsfile/live/23028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",浙江卫视
 http://59.44.102.18:8888/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 group-title="China",浙江卫视
-http://124.228.160.169:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",浙江卫视
 http://118.248.216.78:8088/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",浙江卫视
@@ -1146,8 +920,6 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="China",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 group-title="China",浙江卫视
-http://117.27.190.42:9998/tsfile/live/23271_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",浙江卫视
 http://183.94.1.118:8801/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",浙江卫视
 http://36.40.237.247:9999/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -1155,8 +927,6 @@ http://36.40.237.247:9999/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
 http://61.175.237.198:9901/tsfile/live/0124_1.m3u8
 #EXTINF:-1 group-title="China",浙江卫视
 http://183.94.212.30:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",浙江卫视
-http://14.212.185.27:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",浙江卫视
 http://219.159.147.195:9901/tsfile/live/1025_1.m3u8
 #EXTINF:-1 group-title="China",浙江卫视
@@ -1166,25 +936,15 @@ http://36.32.174.67:60080/newlive/live/hls/23/live.m3u8
 #EXTINF:-1 group-title="China",浙江卫视
 http://123.160.173.200:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",浙江卫视
-http://58.23.26.184:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",浙江卫视
 http://103.116.245.163/sxg/sxg.php?id=/zjwsH265_4000.m3u8
 #EXTINF:-1 group-title="China",浙江卫视
 http://61.136.67.238:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",浙江卫视
-http://118.81.54.64:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",湖南卫视
-http://58.23.26.184:9901/tsfile/live/0128_1.m3u8
-#EXTINF:-1 group-title="China",湖南卫视
-http://124.228.160.169:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",湖南卫视
 http://121.33.239.242:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",湖南卫视
 http://39.164.202.90:8899/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",湖南卫视
 http://103.116.245.163/sxg/sxg.php?id=/hnwsH265_4000.m3u8
-#EXTINF:-1 group-title="China",湖南卫视
-http://118.81.54.64:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",湖南卫视
 http://218.3.138.25:1111/tsfile/live/1018_1.m3u8
 #EXTINF:-1 group-title="China",湖南卫视
@@ -1238,12 +998,6 @@ http://103.116.245.163/sxg/sxg.php?id=/jswsH265_4000.m3u8
 #EXTINF:-1 group-title="China",江苏卫视
 http://218.3.138.25:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",江苏卫视
-http://14.212.185.27:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",江苏卫视
-http://171.118.222.151:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",江苏卫视
-http://58.23.26.184:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",江苏卫视
 http://61.136.67.238:50085/tsfile/live/0127_1.m3u8
 #EXTINF:-1 group-title="China",江苏卫视
 http://58.220.219.14:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1258,8 +1012,6 @@ http://110.7.129.246:8096/tsfile/live/0127_1.m3u8
 #EXTINF:-1 group-title="China",江苏卫视
 http://118.81.54.64:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",江苏卫视
-http://124.228.160.169:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",江苏卫视
 http://222.240.82.92:9901/tsfile/live/0127_1.m3u8
 #EXTINF:-1 group-title="China",江苏卫视
 http://59.44.102.18:8888/newlive/live/hls/22/live.m3u8
@@ -1271,12 +1023,8 @@ http://61.136.67.238:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=
 http://36.40.237.247:9999/tsfile/live/0123_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",江苏卫视
 http://58.57.21.166:9901/tsfile/live/0127_1.m3u8
-#EXTINF:-1 group-title="China",江苏卫视
-http://171.116.59.153:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",安徽卫视
 http://183.94.1.118:8801/tsfile/live/0130_1.m3u8
-#EXTINF:-1 group-title="China",安徽卫视
-http://124.228.160.169:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",安徽卫视
 http://113.220.234.100:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",安徽卫视
@@ -1298,10 +1046,6 @@ http://183.94.1.118:8801/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",安徽卫视
 http://221.4.143.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKpi6kJCQCoMejZ%2FjmEq59ETBeFztV3v%2BtvhPvprhMbo3&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178966803&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e41aed47214b9&FvSeid=77fd5578ee375ce2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9849&Fsv_chan_hls_se_idx=47&Fsv_TBt=8467952&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_ANHUI-CQ&Fsv_CMSID=GD_CUCC
 #EXTINF:-1 group-title="China",安徽卫视
-http://121.19.134.251:808/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",安徽卫视
-http://14.212.185.27:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",安徽卫视
 http://222.241.154.37:9901/tsfile/live/23031_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",安徽卫视
 http://120.76.248.139/live/otvgd/23.m3u8?bt=2300
@@ -1319,8 +1063,6 @@ http://123.138.216.44:9902/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=
 http://58.57.21.166:9901/tsfile/live/0130_1.m3u8
 #EXTINF:-1 group-title="China",安徽卫视
 http://1.24.190.98:10080/hls/85/index.m3u8
-#EXTINF:-1 group-title="China",安徽卫视
-http://58.23.26.184:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",东南卫视
 http://103.116.245.163/sxg/sxg.php?id=/dnwsfjwsH265_4000.m3u8
 #EXTINF:-1 group-title="China",东南卫视
@@ -1328,19 +1070,13 @@ http://183.94.1.118:8801/tsfile/live/0137_1.m3u8
 #EXTINF:-1 group-title="China",东南卫视
 http://117.27.190.42:9998/tsfile/live/23281_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",东南卫视
-http://124.228.160.169:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",东南卫视
 http://61.136.67.238:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",东南卫视
 http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
 #EXTINF:-1 group-title="China",东南卫视
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/57/20230724/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="China",东南卫视
-http://121.19.134.251:808/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",东南卫视
 http://183.94.1.118:8801/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",东南卫视
-http://14.212.185.27:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",东南卫视
 http://123.160.173.200:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",东南卫视
@@ -1352,15 +1088,11 @@ http://1.24.190.98:10080/hls/88/index.m3u8
 #EXTINF:-1 group-title="China",东南卫视
 http://120.76.248.139/live/otvgd/80.m3u8?bt=2300
 #EXTINF:-1 group-title="China",东南卫视
-http://39.164.202.90:8899/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",东南卫视
 http://222.241.154.37:9901/tsfile/live/23037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",东南卫视
 http://58.57.21.166:9901/tsfile/live/0137_1.m3u8
 #EXTINF:-1 group-title="China",云南卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/YUNNHD/index.m3u8?gMac=unknown&livodToken=3372ee
-#EXTINF:-1 group-title="China",云南卫视
-http://58.23.26.114:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",云南卫视
 http://39.164.202.90:8899/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",云南卫视
@@ -1372,15 +1104,11 @@ http://58.57.21.166:9901/tsfile/live/0119_1.m3u8
 #EXTINF:-1 group-title="China",云南卫视
 http://103.116.245.163/sxg/sxg.php?id=/ynws_4000.m3u8
 #EXTINF:-1 group-title="China",云南卫视
-http://14.212.185.27:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",云南卫视
 http://120.76.248.139/live/otvgd/61.m3u8?bt=2300
 #EXTINF:-1 group-title="China",云南卫视
 http://1.24.190.98:10080/hls/92/index.m3u8
 #EXTINF:-1 group-title="China",云南卫视
 http://222.241.154.37:9901/tsfile/live/23043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",云南卫视
-http://124.228.160.169:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",云南卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
 #EXTINF:-1 group-title="China",云南卫视
@@ -1406,17 +1134,11 @@ http://61.136.67.238:50085/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",内蒙古卫视
 http://123.189.36.103:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",内蒙古卫视
-http://14.212.185.27:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",内蒙古卫视
 http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/neimeng/1000/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="China",内蒙古卫视
 http://58.57.21.166:9901/tsfile/live/0109_1.m3u8
 #EXTINF:-1 group-title="China",内蒙古卫视
-http://39.164.202.90:8899/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",内蒙古卫视
 http://1.24.190.98:10080/hls/31/index.m3u8
-#EXTINF:-1 group-title="China",内蒙古卫视
-http://110.241.189.173:808/hls/39/index.m3u8
 #EXTINF:-1 group-title="China",农林卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8
 #EXTINF:-1 group-title="China",农林卫视
@@ -1432,17 +1154,11 @@ http://39.164.202.90:8899/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",北京卫视
 http://36.40.237.247:9999/tsfile/live/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",北京卫视
-http://121.19.134.251:808/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",北京卫视
 http://61.138.128.226:19901/tsfile/live/0122_1.m3u8
-#EXTINF:-1 group-title="China",北京卫视
-http://14.212.185.27:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",北京卫视
 http://58.220.219.14:9901/tsfile/live/0122_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="China",北京卫视
 http://58.57.21.166:9901/tsfile/live/0122_1.m3u8
-#EXTINF:-1 group-title="China",北京卫视
-http://171.118.222.151:9999/tsfile/live/0122_1.m3u8
 #EXTINF:-1 group-title="China",北京卫视
 http://218.3.138.25:1111/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",北京卫视
@@ -1450,29 +1166,19 @@ http://118.81.54.64:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",北京卫视
 http://117.27.190.42:9998/tsfile/live/23257_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",北京卫视
-http://58.23.26.184:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",北京卫视
 http://223.151.51.74:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",北京卫视
 http://59.44.102.18:8888/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 group-title="China",北京卫视
 http://120.224.178.16:9901/tsfile/live/0126_1.m3u8
 #EXTINF:-1 group-title="China",北京卫视
-http://124.228.160.169:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",北京卫视
-http://171.118.222.151:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",北京卫视
 http://120.76.248.139/live/otvgd/24.m3u8?bt=2300
 #EXTINF:-1 group-title="China",北京卫视
 http://222.240.82.92:9901/tsfile/live/0122_1.m3u8
 #EXTINF:-1 group-title="China",北京卫视
-http://183.185.254.132:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",北京卫视
 http://103.116.245.163/sxg/sxg.php?id=/bjwsH265_4000.m3u8
 #EXTINF:-1 group-title="China",北京卫视
 http://113.220.234.100:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",北京卫视
-http://171.116.59.153:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",北京卫视
 http://222.241.154.37:9901/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",北京卫视
@@ -1483,8 +1189,6 @@ http://118.248.216.78:8088/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
 #EXTINF:-1 group-title="China",北京卫视
 http://61.136.67.238:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",厦门卫视
-http://117.27.190.42:9998/tsfile/live/23282_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",厦门卫视
 http://123.189.36.103:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",吉林卫视
@@ -1497,8 +1201,6 @@ http://58.57.21.166:9901/tsfile/live/0116_1.m3u8
 http://175.18.189.238:9902/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="China",吉林卫视
 http://61.136.67.238:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",吉林卫视
-http://121.19.134.251:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",吉林卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/JILHD/index.m3u8?gMac=unknown&livodToken=aef69bf8c1b273132c0131c77a30e70de412ec16260723968deb9a2b8a769e5a_1720508592_604800&fromCDN=ws
 #EXTINF:-1 group-title="China",吉林卫视
@@ -1514,8 +1216,6 @@ http://117.27.190.42:9998/tsfile/live/23258_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",吉林卫视
 http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="China",吉林卫视
-http://39.164.202.90:8899/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",吉林卫视
 http://123.138.216.44:9902/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",吉林卫视
 http://36.40.237.247:9999/tsfile/live/0132_5.m3u8?key=txiptv&playlive=0&authid=0
@@ -1523,8 +1223,6 @@ http://36.40.237.247:9999/tsfile/live/0132_5.m3u8?key=txiptv&playlive=0&authid=0
 http://36.32.174.67:60080/newlive/live/hls/40/live.m3u8
 #EXTINF:-1 group-title="China",四川卫视
 http://59.44.102.18:8888/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 group-title="China",四川卫视
-http://121.19.134.251:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",四川卫视
 http://36.249.151.244:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",四川卫视
@@ -1534,13 +1232,9 @@ http://123.138.216.44:9902/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",四川卫视
 http://39.164.202.90:8899/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",四川卫视
-http://171.118.222.151:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",四川卫视
 http://36.40.237.247:9999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",四川卫视
 http://183.94.1.118:8801/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",四川卫视
-http://183.185.254.132:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",四川卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/SICHD/index.m3u8?gMac=unknown&livodToken=aae3b7d3f710cb95ac50e10fd1c8915cbd473aa1d627861a4e331b6470420b14_1720505236_604800&fromCDN=ws
 #EXTINF:-1 group-title="China",四川卫视
@@ -1552,17 +1246,7 @@ http://61.136.67.238:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",四川卫视
 http://118.81.54.64:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",四川卫视
-http://124.228.160.169:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",四川卫视
-http://171.116.59.153:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",四川卫视
 http://103.116.245.163/sxg/sxg.php?id=/scwsH265_4000.m3u8
-#EXTINF:-1 group-title="China",四川卫视
-http://171.118.222.151:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1 group-title="China",四川卫视
-http://58.23.26.184:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",四川卫视
-http://14.212.185.27:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",四川卫视
 http://222.241.154.37:9901/tsfile/live/23041_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",四川卫视
@@ -1590,8 +1274,6 @@ http://36.249.151.244:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",天津卫视
 http://222.241.154.37:9901/tsfile/live/23032_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",天津卫视
-http://121.19.134.251:808/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",天津卫视
 http://221.4.143.69:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKqessbbY33u5MnZnHCFZZTKedVHdYk5kh2CdQP7Xn4%2B6&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179130392&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e42f60faa9dd1&FvSeid=77fd5578ee39ecbe&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9847&Fsv_chan_hls_se_idx=46&Fsv_TBt=8468032&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_TIANJIN-CQ&Fsv_CMSID=GD_CUCC
 #EXTINF:-1 group-title="China",天津卫视
 http://223.151.51.74:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1604,21 +1286,15 @@ http://58.57.21.166:9901/tsfile/live/0135_1.m3u8
 #EXTINF:-1 group-title="China",天津卫视
 http://221.4.143.69:8114/GD_CUCC/G_TIANJIN-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKqessbbY33u5MnZnHCFZZTKedVHdYk5kh2CdQP7Xn4%2B6&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179130392&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e42f60faa9dd1&FvSeid=77fd5578ee39ecbe&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9847&Fsv_chan_hls_se_idx=46&Fsv_TBt=8468032&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_TIANJIN-CQ&Fsv_CMSID=GD_CUCC
 #EXTINF:-1 group-title="China",天津卫视
-http://58.23.26.114:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",天津卫视
 http://1.24.190.98:10080/hls/69/index.m3u8
 #EXTINF:-1 group-title="China",天津卫视
 http://117.27.190.42:9998/tsfile/live/23259_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",天津卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 group-title="China",宁夏卫视
-http://58.23.26.114:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",宁夏卫视
 http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="China",宁夏卫视
 http://58.57.21.166:9901/tsfile/live/0112_1.m3u8
-#EXTINF:-1 group-title="China",宁夏卫视
-http://58.23.26.184:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",宁夏卫视
 http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
 #EXTINF:-1 group-title="China",宁夏卫视
@@ -1646,19 +1322,9 @@ http://36.40.237.247:9999/tsfile/live/0143_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",山东卫视
 http://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="China",山东卫视
-http://124.228.160.169:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",山东卫视
-http://58.23.26.184:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",山东卫视
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226326/index.m3u8
-#EXTINF:-1 group-title="China",山东卫视
 http://36.249.151.244:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",山东卫视
 http://59.44.102.18:8888/newlive/live/hls/30/live.m3u8
-#EXTINF:-1 group-title="China",山东卫视
-http://58.23.26.114:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",山东卫视
-http://14.212.185.27:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",山东卫视
 http://222.241.154.37:9901/tsfile/live/23040_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 #EXTINF:-1 group-title="China",山东卫视
@@ -1672,29 +1338,17 @@ http://103.116.245.163/sxg/sxg.php?id=/sdwsH265_4000.m3u8
 #EXTINF:-1 group-title="China",山东卫视
 http://39.164.202.90:8899/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",山东卫视
-http://58.23.26.184:9901/tsfile/live/0131_1.m3u8
-#EXTINF:-1 group-title="China",山东卫视
 http://123.160.173.200:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",山西卫视
 http://118.81.54.64:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",山西卫视
-http://14.212.185.27:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",山西卫视
-http://171.118.222.151:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1 group-title="China",山西卫视
 http://123.189.36.103:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",山西卫视
-http://183.185.254.132:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",山西卫视
-http://171.118.222.151:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",山西卫视
 http://36.40.237.247:9999/tsfile/live/0132_3.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",山西卫视
 http://123.160.173.200:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",山西卫视
 http://58.57.21.166:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 group-title="China",山西卫视
-http://39.164.202.90:8899/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",山西卫视
 http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
 #EXTINF:-1 group-title="China",广东卫视
@@ -1708,8 +1362,6 @@ http://120.76.248.139/live/otvgd/16.m3u8?bt=2300
 #EXTINF:-1 group-title="China",广东卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&livodToken=851dc3367c77a462130bed174d80940abd5a1763eaf3d6f9084d213c49bb0fda_1720505150_604800&fromCDN=ws
 #EXTINF:-1 group-title="China",广东卫视
-http://124.228.160.169:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",广东卫视
 http://118.248.216.78:8088/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",广东卫视
 http://14.212.185.27:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1719,10 +1371,6 @@ http://61.136.67.238:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=
 http://36.40.237.247:9999/tsfile/live/0131_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",广东卫视
 http://fangke.blueswords.com:9901/tsfile/live/0142_1.m3u8
-#EXTINF:-1 group-title="China",广东卫视
-http://118.81.54.64:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",广东卫视
-http://171.118.222.151:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",广东卫视
 http://59.48.75.130:3052/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",广东卫视
@@ -1745,10 +1393,6 @@ http://219.135.208.218:8083/tsfile/live/0016_1.m3u8
 http://58.57.21.166:9901/tsfile/live/0125_1.m3u8
 #EXTINF:-1 group-title="China",广东卫视
 http://183.94.1.118:8801/tsfile/live/0125_1.m3u8
-#EXTINF:-1 group-title="China",广东卫视
-http://59.44.102.18:8888/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 group-title="China",广西卫视
-http://58.23.26.114:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",广西卫视
 http://123.160.173.200:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",广西卫视
@@ -1766,21 +1410,13 @@ http://58.57.21.166:9901/tsfile/live/0113_1.m3u8
 #EXTINF:-1 group-title="China",广西卫视
 http://61.136.67.238:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",广西卫视
-http://14.212.185.27:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",广西卫视
 http://hlsbkmgsplive.miguvideo.com/wd-guangxiwssd-600/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="China",广西卫视
 http://222.241.154.37:9901/tsfile/live/23039_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",广西卫视
 http://117.27.190.42:9998/tsfile/live/23269_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",广西卫视
-http://58.23.26.184:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",广西卫视
 http://123.189.36.103:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",广西卫视
-http://124.228.160.169:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",广西卫视
-http://39.164.202.90:8899/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="China",延边卫视
@@ -1788,13 +1424,9 @@ http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 #EXTINF:-1 group-title="China",延边卫视
 https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
 #EXTINF:-1 group-title="China",新疆卫视
-http://59.48.75.130:3052/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",新疆卫视
 http://120.76.248.139/live/otvgd/64.m3u8?bt=2300
 #EXTINF:-1 group-title="China",新疆卫视
 http://123.160.173.200:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",新疆卫视
-http://121.19.134.251:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",新疆卫视
 http://123.189.36.103:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",新疆卫视
@@ -1818,8 +1450,6 @@ http://120.76.248.139/live/otvgd/22.m3u8?bt=2300
 #EXTINF:-1 group-title="China",江西卫视
 http://223.151.51.74:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",江西卫视
-http://58.23.26.184:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",江西卫视
 http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
 #EXTINF:-1 group-title="China",江西卫视
 http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
@@ -1840,13 +1470,9 @@ http://118.248.216.78:8088/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",江西卫视
 http://183.94.1.118:8801/tsfile/live/0138_1.m3u8
 #EXTINF:-1 group-title="China",江西卫视
-http://124.228.160.169:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",江西卫视
 http://123.189.36.103:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",江西卫视
 http://103.116.245.163/sxg/sxg.php?id=/jxwsH265_4000.m3u8
-#EXTINF:-1 group-title="China",河北卫视
-http://58.23.26.114:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",河北卫视
 http://58.57.21.166:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 group-title="China",河北卫视
@@ -1855,8 +1481,6 @@ http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226328/index.m3
 http://117.27.190.42:9998/tsfile/live/23266_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",河北卫视
 http://1.24.190.98:10080/hls/78/index.m3u8
-#EXTINF:-1 group-title="China",河北卫视
-http://121.19.134.251:808/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",河北卫视
 http://61.136.67.238:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",河北卫视
@@ -1867,30 +1491,14 @@ http://36.40.237.247:9999/tsfile/live/0135_2.m3u8?key=txiptv&playlive=0&authid=0
 http://36.249.151.244:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",河北卫视
 http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 group-title="China",河北卫视
-http://58.23.26.184:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",河南卫视
 http://183.94.1.118:8801/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="China",河南卫视
-http://121.19.134.251:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",河南卫视
-http://58.23.26.184:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",河南卫视
-http://124.228.160.169:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",河南卫视
 http://58.220.219.14:9901/tsfile/live/0139_1.m3u8?key=txiptv06-18-2024
-#EXTINF:-1 group-title="China",河南卫视
-http://171.116.59.153:9999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",河南卫视
 http://59.44.102.18:8888/newlive/live/hls/25/live.m3u8
 #EXTINF:-1 group-title="China",河南卫视
 http://59.48.75.130:3052/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",河南卫视
-http://123.138.216.44:9902/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",河南卫视
-http://58.23.26.114:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",河南卫视
-http://58.23.26.184:9901/tsfile/live/0139_1.m3u8
 #EXTINF:-1 group-title="China",河南卫视
 http://222.241.154.37:9901/tsfile/live/23044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",河南卫视
@@ -1898,11 +1506,7 @@ http://58.57.21.166:9901/tsfile/live/0139_1.m3u8
 #EXTINF:-1 group-title="China",河南卫视
 http://183.94.1.118:8801/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",河南卫视
-http://14.212.185.27:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",河南卫视
 http://221.210.64.165:2233/hls/48/index.m3u8
-#EXTINF:-1 group-title="China",河南卫视
-http://171.118.222.151:9999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",河南卫视
 http://36.249.151.244:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",河南卫视
@@ -1940,29 +1544,17 @@ http://123.189.36.103:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="China",海南卫视
 http://hlsbkmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="China",海南卫视
-http://39.164.202.90:8899/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",海南卫视
 http://117.27.190.42:9998/tsfile/live/23272_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",海南卫视
 http://1.24.190.98:10080/hls/99/index.m3u8
 #EXTINF:-1 group-title="China",海南卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=2b30d57372713ae10ee004113d8ce4b737f5bd7631a1bd4bf19aa667cd535f27_1720505278_604800&fromCDN=ws
-#EXTINF:-1 group-title="China",海南卫视
-http://124.228.160.169:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",海南卫视
-http://58.23.26.114:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",深圳卫视
-http://14.212.185.27:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",深圳卫视
-http://171.118.222.151:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",深圳卫视
 http://103.116.245.163/sxg/sxg.php?id=/szwsH265_4000.m3u8
 #EXTINF:-1 group-title="China",深圳卫视
 http://58.220.219.14:9901/tsfile/live/0126_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="China",深圳卫视
 http://113.220.234.100:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",深圳卫视
-http://118.81.54.64:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",深圳卫视
 http://222.241.154.37:9901/tsfile/live/23035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",深圳卫视
@@ -1974,11 +1566,7 @@ http://58.57.21.166:9901/tsfile/live/0126_1.m3u8
 #EXTINF:-1 group-title="China",深圳卫视
 http://223.151.51.74:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",深圳卫视
-http://117.27.190.42:9998/tsfile/live/23274_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",深圳卫视
 http://120.76.248.139/live/otvgd/17.m3u8?bt=2300
-#EXTINF:-1 group-title="China",深圳卫视
-http://124.228.160.169:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",深圳卫视
 http://39.164.202.90:8899/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",深圳卫视
@@ -1987,8 +1575,6 @@ http://61.136.67.238:50085/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=
 http://123.160.173.200:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",湖北卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/HUBEIHD/index.m3u8?gMac=unknown&livodToken=b8f876f4b394029039b5d1733070c8731bc880530b0fb975397a5eeb37ca0cec_1720508906_604800&fromCDN=ws
-#EXTINF:-1 group-title="China",湖北卫视
-http://14.212.185.27:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",湖北卫视
 http://183.94.1.118:8801/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",湖北卫视
@@ -2002,13 +1588,7 @@ http://36.32.174.67:60080/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 group-title="China",湖北卫视
 http://36.40.237.247:9999/tsfile/live/0132_7.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",湖北卫视
-http://171.116.59.153:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",湖北卫视
 http://103.116.245.163/sxg/sxg.php?id=/hbwsH265_4000.m3u8
-#EXTINF:-1 group-title="China",湖北卫视
-http://58.23.26.184:9901/tsfile/live/0132_1.m3u8
-#EXTINF:-1 group-title="China",湖北卫视
-http://171.118.222.151:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",湖北卫视
 http://117.27.190.42:9998/tsfile/live/23275_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",湖北卫视
@@ -2020,15 +1600,9 @@ http://59.44.102.18:8888/newlive/live/hls/23/live.m3u8
 #EXTINF:-1 group-title="China",湖北卫视
 http://223.151.51.74:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",湖北卫视
-http://58.220.219.14:9901/tsfile/live/0132_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="China",湖北卫视
-http://124.228.160.169:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",湖北卫视
 http://36.249.151.244:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",湖北卫视
 http://118.81.54.64:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",湖北卫视
-http://183.185.254.132:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",甘肃卫视
 http://117.27.190.42:9998/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",甘肃卫视
@@ -2053,14 +1627,10 @@ http://222.240.82.92:9901/tsfile/live/0141_1.m3u8
 http://123.138.216.44:9902/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",甘肃卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/GSWS/index.m3u8?gMac=unknown&livodToken=3372ee
-#EXTINF:-1 group-title="China",蒙语卫视
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 group-title="China",西藏卫视
 http://59.48.75.130:3052/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",西藏卫视
 http://218.13.170.98:9901/tsfile/live/0111_1.m3u8
-#EXTINF:-1 group-title="China",西藏卫视
-http://39.164.202.90:8899/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",西藏卫视
 http://120.76.248.139/live/otvgd/66.m3u8?bt=2300
 #EXTINF:-1 group-title="China",西藏卫视
@@ -2076,15 +1646,11 @@ http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225586/index.m3
 #EXTINF:-1 group-title="China",贵州卫视
 http://58.57.21.166:9901/tsfile/live/0120_1.m3u8
 #EXTINF:-1 group-title="China",贵州卫视
-http://14.212.185.27:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",贵州卫视
 http://61.136.67.238:50085/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",贵州卫视
 http://59.48.75.130:3052/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",贵州卫视
 http://123.189.36.103:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",贵州卫视
-http://39.164.202.90:8899/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",贵州卫视
 http://117.27.190.42:9998/tsfile/live/23252_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",贵州卫视
@@ -2104,17 +1670,9 @@ http://223.151.51.74:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",贵州卫视
 http://222.241.154.37:9901/tsfile/live/23046_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",辽宁卫视
-http://171.118.222.151:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",辽宁卫视
 http://27.40.16.69:8114/GD_CUCC/G_LIAONING-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkRqeVO49Tnq6K%2BWCd0TWOv%2FGe21maMcczv29zbhzU5i&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178917390&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e414c0b1d923b&FvSeid=77fd5578ee3699e0&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4251&Fsv_chan_hls_se_idx=48&Fsv_TBt=8467984&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_LIAONING-CQ&Fsv_CMSID=GD_CUCC
 #EXTINF:-1 group-title="China",辽宁卫视
 http://120.76.248.139/live/otvgd/32.m3u8?bt=2300
-#EXTINF:-1 group-title="China",辽宁卫视
-http://124.228.160.169:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",辽宁卫视
-http://171.116.59.153:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",辽宁卫视
-http://58.23.26.184:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",辽宁卫视
 http://27.40.16.69:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkRqeVO49Tnq6K%2BWCd0TWOv%2FGe21maMcczv29zbhzU5i&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178917390&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e414c0b1d923b&FvSeid=77fd5578ee3699e0&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4251&Fsv_chan_hls_se_idx=48&Fsv_TBt=8467984&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_LIAONING-CQ&Fsv_CMSID=GD_CUCC
 #EXTINF:-1 group-title="China",辽宁卫视
@@ -2130,8 +1688,6 @@ http://123.160.173.200:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",辽宁卫视
 http://61.136.67.238:50085/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",辽宁卫视
-http://121.19.134.251:808/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",辽宁卫视
 http://39.164.202.90:8899/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",辽宁卫视
 http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/liaoningwshd/3000/index.m3u8?&encrypt=
@@ -2140,21 +1696,11 @@ http://183.94.1.118:8801/tsfile/live/0121_1.m3u8
 #EXTINF:-1 group-title="China",辽宁卫视
 http://183.94.1.118:8801/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",辽宁卫视
-http://183.185.254.132:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",辽宁卫视
 http://118.81.54.64:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",辽宁卫视
-http://171.118.222.151:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1 group-title="China",辽宁卫视
-http://14.212.185.27:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",辽宁卫视
 http://36.40.237.247:9999/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",辽宁卫视
 http://59.44.102.18:8888/newlive/live/hls/35/live.m3u8
-#EXTINF:-1 group-title="China",重庆卫视
-http://118.81.54.64:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",重庆卫视
-http://171.118.222.151:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",重庆卫视
 http://103.116.245.163/sxg/sxg.php?id=/cqwsH265_4000.m3u8
 #EXTINF:-1 group-title="China",重庆卫视
@@ -2164,13 +1710,9 @@ http://36.40.237.247:9999/tsfile/live/0132_6.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",重庆卫视
 http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
 #EXTINF:-1 group-title="China",重庆卫视
-http://14.212.185.27:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",重庆卫视
 http://117.27.190.42:9998/tsfile/live/23254_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",重庆卫视
 http://123.160.173.200:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",重庆卫视
-http://58.23.26.184:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="China",重庆卫视
 http://183.94.1.118:8801/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",重庆卫视
@@ -2192,8 +1734,6 @@ http://218.13.170.98:9901/tsfile/live/0136_1.m3u8
 #EXTINF:-1 group-title="China",陕西卫视
 http://58.57.21.166:9901/tsfile/live/0136_1.m3u8
 #EXTINF:-1 group-title="China",陕西卫视
-http://58.23.26.184:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",陕西卫视
 http://36.40.237.247:9999/tsfile/live/0130_3.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="China",陕西卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
@@ -2209,8 +1749,6 @@ http://222.241.154.37:9901/tsfile/live/23048_1.m3u8?key=tvbox6_com&playlive=1&au
 http://36.249.151.244:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",陕西卫视
 http://103.116.245.163/sxg/sxg.php?id=/sxws_4000.m3u8
-#EXTINF:-1 group-title="China",陕西卫视
-http://121.19.134.251:808/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",陕西卫视
 http://223.151.51.74:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",陕西卫视
@@ -2235,10 +1773,6 @@ http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=58dbacb91718844831
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=dbb9f11e1720072042
 #EXTINF:-1 group-title="China",青海卫视
 http://123.138.216.44:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",青海卫视
-http://58.23.26.184:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",青海卫视
-http://39.164.202.90:8899/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",青海卫视
 http://123.160.173.200:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",青海卫视
@@ -2266,13 +1800,9 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef
 #EXTINF:-1 group-title="China",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 #EXTINF:-1 group-title="China",黑龙江卫视
-http://58.23.26.184:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",黑龙江卫视
 http://222.241.154.37:9901/tsfile/live/23045_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 #EXTINF:-1 group-title="China",黑龙江卫视
 http://223.151.51.74:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",黑龙江卫视
-http://171.116.59.153:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",黑龙江卫视
 http://103.116.245.163/sxg/sxg.php?id=/hljwsH265_4000.m3u8
 #EXTINF:-1 group-title="China",黑龙江卫视
@@ -2280,15 +1810,9 @@ http://222.241.154.37:9901/tsfile/live/23045_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="China",黑龙江卫视
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 #EXTINF:-1 group-title="China",黑龙江卫视
-http://171.118.222.151:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",黑龙江卫视
 http://36.249.151.244:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",黑龙江卫视
 http://61.138.54.155:2233/hls/1/index.m3u8
-#EXTINF:-1 group-title="China",黑龙江卫视
-http://183.185.254.132:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="China",黑龙江卫视
-http://124.228.160.169:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",黑龙江卫视
 http://61.136.67.238:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",黑龙江卫视
@@ -2321,8 +1845,6 @@ http://gmxw.7766.org:808/hls/2/index.m3u8
 http://hlsbkmgsplive.miguvideo.com/wd_r3/2018/nfmedia/gdty/350/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="体育频道",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 group-title="体育频道",纬来体育
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
 #EXTINF:-1 group-title="体育频道",辽宁体育
 http://123.189.36.103:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="体育频道",风云足球
@@ -2600,11 +2122,7 @@ http://118.248.216.78:8088/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="动画片",炫动卡通
 http://123.189.36.103:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="动画片",金鹰卡通
-http://118.81.54.64:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="动画片",金鹰卡通
 http://123.189.36.103:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="动画片",金鹰卡通
-http://124.228.160.169:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="动画片",金鹰卡通
 http://183.94.1.118:8801/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="动画片",金鹰卡通
@@ -2619,14 +2137,10 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/qicaixjhd/57/20230411/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="游戏频道",游戏风云
 http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/youxifengyunhd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 group-title="浙江频道",上虞文化影视频道
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",上虞新商都频道
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 group-title="浙江频道",上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",上虞新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",东阳影视生活频道
@@ -2661,8 +2175,6 @@ http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",平湖新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
-#EXTINF:-1 group-title="浙江频道",平湖民生休闲
-http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",平湖民生休闲频道
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",庆元新闻综合频道
@@ -2725,14 +2237,10 @@ http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTINF:-1 group-title="浙江频道",龙游新闻综合频道
-https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",龙游生活娱乐频道
 https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 #EXTINF:-1 group-title="江苏频道",扬州城市频道
 http://cm-wshls.homecdn.com/live/8bd.m3u8
-#EXTINF:-1 group-title="江苏频道",扬州生活频道
-http://cm-wshls.homecdn.com/live/8bf.m3u8
 #EXTINF:-1 group-title="江苏频道",扬州邗江频道
 http://cm-wshls.homecdn.com/live/8c3.m3u8
 #EXTINF:-1 group-title="江苏频道",泰州一套新闻综合频道
@@ -2751,8 +2259,6 @@ http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=bfff58e41720582991
 http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=ec9eeb0c1721800949
 #EXTINF:-1 group-title="江苏频道",镇江新闻综合频道
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
-#EXTINF:-1 group-title="湖南频道",湖南公共
-http://124.228.160.169:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="湖南频道",湖南国际
 http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南国际
@@ -2770,8 +2276,6 @@ http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="湖南频道",湖南电影
-http://124.228.160.169:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道",湖南电影
 http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南电影
 http://222.241.154.37:9901/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2780,13 +2284,9 @@ http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
 http://222.241.154.37:9901/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="湖南频道",湖南经视
-http://124.228.160.169:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道",湖南经视
 http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南经视
 http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道",湖南都市
-http://124.228.160.169:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="湖南频道",湖南都市
 http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南都市
@@ -2824,8 +2324,6 @@ http://113.110.72.52:8090/hls/105/index.m3u8
 #EXTINF:-1 group-title="China",广东珠江
 http://113.86.205.31:8090/hls/105/index.m3u8
 #EXTINF:-1 group-title="China",广东珠江
-http://14.212.185.27:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="China",广东珠江
 http://183.11.239.36:808/hls/83/index.m3u8
 #EXTINF:-1 group-title="China",广东珠江
 http://183.236.32.24:9901/hls/1036/index.m3u8
@@ -2841,8 +2339,6 @@ http://123.189.36.103:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=
 http://123.189.36.103:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="辽宁频道",辽宁生活
 http://123.189.36.103:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="陕西频道",延安一套新闻综合频道
-http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 #EXTINF:-1 group-title="陕西频道",延安二套公共频道
 http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
 #EXTINF:-1 group-title="山西频道",优购物电视购物
