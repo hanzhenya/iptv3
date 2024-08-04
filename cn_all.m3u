@@ -396,8 +396,6 @@ http://112.46.85.60:8009/hls/503/index.m3u8
 #EXTINF:-1 group-title="China",CCTV5
 http://121.24.98.224:8090/hls/13/index.m3u8
 #EXTINF:-1 group-title="China",CCTV5
-http://116.117.104.38:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="China",CCTV5
 http://121.24.98.85:8090/hls/13/index.m3u8
 #EXTINF:-1 group-title="China",CCTV5
 http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
