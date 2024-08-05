@@ -2697,8 +2697,6 @@ http://180.213.174.231:9901/tsfile/live/1028_1.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="电影频道",CHC家庭影院
 http://180.213.174.231:9901/tsfile/live/1030_1.m3u8
-#EXTINF:-1 group-title="电影频道",CHC家庭影院
-http://171.108.239.80:8181/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="电影频道",CHC动作电影
 http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="电影频道",CHC动作电影
@@ -2707,8 +2705,6 @@ http://123.189.36.103:9901/tsfile/live/1101_1.m3u8
 http://123.189.36.155:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="电影频道",CHC动作电影
 http://123.189.36.103:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="电影频道",CHC动作电影
-http://171.108.239.80:8181/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="电影频道",家庭影院
 http://123.189.36.103:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="电影频道",家庭影院
@@ -2777,8 +2773,6 @@ https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
 #EXTINF:-1 group-title="Hong Kong",凤凰资讯
 http://221.225.236.123:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 group-title="Hong Kong",凤凰资讯
-http://171.108.239.79:8181/tsfile/live/1024_1.m3u8
 #EXTINF:-1 group-title="Hong Kong",凤凰资讯
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong",凤凰资讯
@@ -2865,8 +2859,6 @@ https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="Hong Kong",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
-#EXTINF:-1 group-title="Hong Kong",东森超视
-http://171.108.239.84:8181/tsfile/live/1023_1.m3u8
 #EXTINF:-1 group-title="Hong Kong",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="Hong Kong",亚洲新闻
@@ -3089,8 +3081,6 @@ http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 #EXTINF:-1 group-title="D｜浙江频道",永嘉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="D｜浙江频道",洞头综合频道
-http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="D｜浙江频道",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="D｜浙江频道",浙江国际
@@ -3421,8 +3411,6 @@ https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf
 http://59.48.42.6:62204/lucheng.m3u8?zshanxd
 #EXTINF:-1 group-title="D｜山西频道",灵石新闻综合
 https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
-#EXTINF:-1 group-title="D｜山西频道",襄汾综合
-http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8?zshanxd
 #EXTINF:-1 group-title="D｜山西频道",运城一套新闻综合频道
 http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8
 #EXTINF:-1 group-title="D｜山西频道",运城三套科教频道
@@ -3781,8 +3769,6 @@ http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
 http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
 #EXTINF:-1 group-title="D｜四川频道",乐至综合
 http://175.155.106.72:89/live1/live1.m3u8?zsicd
-#EXTINF:-1 group-title="D｜四川频道",乐至综合
-http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
 #EXTINF:-1 group-title="D｜四川频道",什邡新闻频道
 http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
 #EXTINF:-1 group-title="D｜四川频道",凉山新闻综合
